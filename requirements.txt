@@ -1,0 +1,12 @@
+boto3
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+Pillow
+requests
+uuid
+openai
+PyMuPdf
+pytesseract 
+pillow
